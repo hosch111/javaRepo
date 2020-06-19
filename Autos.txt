@@ -1,0 +1,30 @@
+
+12000
+VW Golf
+2014
+24355
+blau
+
+9000
+Renault Megane
+2010
+76456
+gruen
+
+14000
+BMW 3
+2012
+34675
+grau
+
+6500
+VW Kaefer
+1966
+200000
+gruen
+
+5000
+Lamborghini
+2010
+0
+gruen-metallic
