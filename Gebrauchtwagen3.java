@@ -1,4 +1,6 @@
-/**Löscht ein Auto
+/**Löscht ein Auto**/
+
+/**
 	
 	public static void loeschen (Auto[] sortiment, String mod_loeschen){
 		try {
@@ -40,4 +42,4 @@
 		catch(IOException ioAusnahme){
 			System.out.print("Fehler beim Oeffnen der Datei");
 		}
-	} **/
+	} 
